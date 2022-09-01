@@ -1,4 +1,4 @@
-package ifExample;
+package ifSwitch;
 
 public class SwitchCase1 {
 
